@@ -135,6 +135,13 @@ Dropigee API wrapper for Node
 ## Skills
 ----------
 
-Perl, Javascript, Node.js, HTML5, ASP, VBScript, PHP, DevOp, MongoDB, RabbitMQ, PostgreSQL, MySQL, SQL Server, CouchDB, Redis, OOP, RAD, Component Engineering, SCRUM, REST API, Distributed and Parallel computing, Loosely Coupled Softwares
+
+Perl, Javascript, Node.js, HTML5, ASP, VBScript, PHP, DevOps, MongoDB, RabbitMQ, PostgreSQL, MySQL, SQL Server, CouchDB, Redis, OOP, RAD, Component Engineering, SCRUM, REST API, Distributed and Parallel computing, Loosely Coupled Softwares, Nginx, IIS, Apache, DNS, Active Directory, Git, CI/CD, testing, web scraper.
+
+
+## NodeJS and Javascript Skills
+
+ES6, Typescript, IndexedDB, PWA, SPA, Vue, React, DHTMLX, Express, Sequelize, Mongoose, Electron, Phone Gap, Loopback, Restify, Seneca, pm2, e2e testing
+
 
 
