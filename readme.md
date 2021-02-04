@@ -9,6 +9,6 @@ Linkedin: https://www.linkedin.com/in/eduardo-perotta-de-almeida
 Github: https://github.com/web2solutions
 ```
 
-[Check the resume in PDF version](https://agnostic-web-foundation-react-functions-demo.vercel.app/)
+[Check the resume in PDF version](https://github.com/web2solutions/Eduardo-Almeida/raw/master/resume.pdf)
 
 
